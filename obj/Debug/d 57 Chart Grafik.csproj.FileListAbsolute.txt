@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\d 57 Chart Grafik\bin\Debug\d 57 Chart Grafik.exe.config
+C:\Users\docal\source\repos\d 57 Chart Grafik\bin\Debug\d 57 Chart Grafik.exe
+C:\Users\docal\source\repos\d 57 Chart Grafik\bin\Debug\d 57 Chart Grafik.pdb
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d 57 Chart Grafik.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d_57_Chart_Grafik.Form1.resources
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d_57_Chart_Grafik.Properties.Resources.resources
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d 57 Chart Grafik.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d 57 Chart Grafik.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d 57 Chart Grafik.exe
+C:\Users\docal\source\repos\d 57 Chart Grafik\obj\Debug\d 57 Chart Grafik.pdb
